@@ -1,2 +1,2 @@
-# Statistical_ML
-This repo contains course material for statistical machine learning
+# ml_stat_class
+Machine Learning in Statistics JHU class
